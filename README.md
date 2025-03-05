@@ -1,5 +1,5 @@
 # PROJECTS
 this is my first project
-<u>
+<br />
 Author- Deepak Tripathi
-</u>
+
